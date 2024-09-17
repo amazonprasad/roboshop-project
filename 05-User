@@ -98,7 +98,8 @@ gpgcheck=0
 enabled=1
 
 
-Hint
+Hint= execute all mangodb commands 
+
 Hint! You can create file by using vim /etc/yum.repos.d/mongo.repo
 
 Install MongoDB
